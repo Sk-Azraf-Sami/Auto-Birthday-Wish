@@ -8,7 +8,7 @@ Welcome to the Automatic Birthday Wishing Script project! This project aims to a
 ## Project Story
 
 In September 05, 2022, I began my journey into the world of JavaScript, eager to explore its capabilities. Through my exploration, I discovered Google Apps Script, a powerful tool that allows me to write JavaScript to interact with Google Sheets and customize HTML files. <br/>
-The inspiration for this project came from a memorable clip from Mr. Bean, where Mr. Bean wishes himself a happy birthday. It was both funny and sad. In this world, there are many people who celebrate their birthday alone, with no one to wish or remember their special day. </br>
+The inspiration for this project came from a funny clip from Mr. Bean, where Mr. Bean wishes himself a happy birthday. It was both funny and sad. In this world, there are many people who celebrate their birthday alone, with no one to wish or remember their special day. </br>
 
 <p align="center">
   <a href="http://www.youtube.com/watch?v=nldsZmeajAc">
