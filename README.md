@@ -1,4 +1,4 @@
-# Automatic Birthday Wishing Script
+# Automatic Birthday Wishing Script 🎂️
 
 ![Project Creation Date](https://img.shields.io/badge/Project%20Created-September%2005%2C%202022-orange)
 
@@ -71,7 +71,7 @@ To configure triggers in Google Apps Script:
 
 ## Fun Fact
 
-By wishing my friends on their birthdays, I found joy in their happiness and even received treats from many of them, making the endeavor truly rewarding.
+By wishing my friends on their birthdays, I found joy in their happiness and even received treats 🤤️ from many of them, making the endeavor truly rewarding.😁️
 
 ## License
 
