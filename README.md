@@ -37,10 +37,6 @@ Inspired by the idea of ensuring no friend goes unnoticed on their birthday, I e
 - Automates the process of sending birthday wishes via email to friends stored in the Google Sheets.
 - Configurable triggers to activate the script at specified times.
 
-## Fun Fact
-
-By wishing my friends on their birthdays, I found joy in their happiness and even received treats from many of them, making the endeavor truly rewarding.
-
 ## How to Use
 
 1. **Google Sheet Setup**: Create a Google Sheet with columns for name, email address, birthday date, and email sent confirmation.
